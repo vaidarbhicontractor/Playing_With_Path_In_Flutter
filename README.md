@@ -1,16 +1,8 @@
-# pathdrawing
+# Play With Path
 
-A new Flutter project.
+Everything is a widget in Flutter. And there are so many awesome widgets available in Flutter but one of my favourite widget is CustomPaint.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    CustomPaint is a widget that provides a canvas on which to draw during the paint phase.
+    
+ There are different ways to draw on a canvas, one of the most efficient ways is using Path.    
+    
